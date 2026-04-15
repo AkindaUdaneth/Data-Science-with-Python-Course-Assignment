@@ -55,12 +55,12 @@ By extracting feature importances from our XGBoost model, we identified the stro
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/middle-east-oil-analysis.git](https://github.com/your-username/middle-east-oil-analysis.git)
+   https://github.com/AkindaUdaneth/Data-Science-with-Python-Course-Assignment.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd middle-east-oil-analysis
+   cd Data-Science-with-Python-Course-Assignment
    ```
 
 3. Install the required dependencies:
